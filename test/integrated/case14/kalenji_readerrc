@@ -1,0 +1,7 @@
+directory=%TMPDIR%/case12
+source=Path
+import=all
+trigger=distance
+log_transactions=no
+filters=none
+outputs=GPX
