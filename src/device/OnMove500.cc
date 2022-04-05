@@ -251,7 +251,7 @@ namespace device
 		int twoPoints = 1;
 		int metaoffset = 20;
 		time_t startTime = session->getTime();
-		for(int i = 0; i < length-40; i += 60)
+		for(int i = 0; i <= length-40; i += 60)
 		{
 			numPoints += 2;
 			chunk = &bytes[i];
