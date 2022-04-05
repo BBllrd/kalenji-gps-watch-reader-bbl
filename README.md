@@ -1,8 +1,7 @@
 # About kalenji_reader
 
-Linux build: [![Linux build status](https://travis-ci.org/ColinPitrat/kalenji-gps-watch-reader.svg?branch=master)](https://travis-ci.org/ColinPitrat/kalenji-gps-watch-reader)
-
-Windows build: [![Windows build status](https://ci.appveyor.com/api/projects/status/ds86ya5oknf4h0uq?svg=true)](https://ci.appveyor.com/project/ColinPitrat/kalenji-gps-watch-reader)
+This fork is from the hudge work of other peoples : see https://github.com/ColinPitrat/kalenji-gps-watch-reader
+I only added support for OnMove 500 HR with extraction of the elevation and Hr.
 
 This tool allows to import data from some running watches.
 
